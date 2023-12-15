@@ -305,3 +305,7 @@ footer p{
 .countdown-item-days .countdown-item-label {
     display: block
 }
+
+main{
+    background-color: red;
+}
